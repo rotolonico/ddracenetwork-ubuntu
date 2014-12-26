@@ -1,5 +1,7 @@
 DDraceNetwork for Ubuntu
 ====================
+![Screenshot](https://github.com/rotolonico/ddracenetwork-ubuntu/blob/master/Screenshot%20from%202014-12-26%2020:04:42.png)
+
 ### How to install 
 Open a terminal and write:
 ```
