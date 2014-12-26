@@ -1,0 +1,5 @@
+ddrace-network-i386 (6.6.4-0ubuntu0) vivid; urgency=low
+
+  * Initial release.
+
+ -- Domenico Rotolo <rotolonico@gmail.com>  Fri, 26 Dec 2014 11:43:12 +0100

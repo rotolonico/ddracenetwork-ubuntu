@@ -1,0 +1,13 @@
+Source: ddrace-network-i386
+Section: games
+Priority: optional
+Maintainer: Domenico Rotolo <rotolonico@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.5
+
+
+Package: ddrace-network-i386
+Architecture: all
+Depends: ${misc:Depends}
+Description: Client for teeworlds
+ DDraceNetwork is a special version of DDRace, a Teeworlds modification.

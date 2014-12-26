@@ -1,0 +1,9 @@
+Package: ddrace-network-i386
+Version: 6.6.4-0ubuntu0
+Architecture: all
+Maintainer: Domenico Rotolo <rotolonico@gmail.com>
+Installed-Size: 68
+Section: games
+Priority: optional
+Description: Client for teeworlds
+ DDraceNetwork is a special version of DDRace, a Teeworlds modification.

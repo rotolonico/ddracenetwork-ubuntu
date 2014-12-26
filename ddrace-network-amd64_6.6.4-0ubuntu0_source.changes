@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 26 Dec 2014 11:43:12 +0100
+Source: ddrace-network-amd64
+Binary: ddrace-network-amd64
+Architecture: source
+Version: 6.6.4-0ubuntu0
+Distribution: vivid
+Urgency: low
+Maintainer: Domenico Rotolo <rotolonico@gmail.com>
+Changed-By: Domenico Rotolo <rotolonico@gmail.com>
+Description:
+ ddrace-network-amd64 - Client for teeworlds
+Changes:
+ ddrace-network-amd64 (6.6.4-0ubuntu0) vivid; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ e736f4aa2ef1214502fe962b92f4913481d63f6f 1147 ddrace-network-amd64_6.6.4-0ubuntu0.dsc
+ 3b3b5e784c60069b0d25626e100daf866534f246 7728 ddrace-network-amd64_6.6.4-0ubuntu0.tar.xz
+Checksums-Sha256:
+ e82273ece0203536eb1e3e267f1db6fc2017d05c3dee280fc25c638aae61455d 1147 ddrace-network-amd64_6.6.4-0ubuntu0.dsc
+ 3ed6d259f08cb4702340a195d7cbeaebc48085b779ae22ca9e17ac8f86b3273f 7728 ddrace-network-amd64_6.6.4-0ubuntu0.tar.xz
+Files:
+ a7ed66fbe41838b2387f05f0c86de35d 1147 games optional ddrace-network-amd64_6.6.4-0ubuntu0.dsc
+ 0692a3de8fa04718f51def175c1a49e4 7728 games optional ddrace-network-amd64_6.6.4-0ubuntu0.tar.xz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJUnakPAAoJEPE7TsvLfP/hLPwH/0JIWLCBPa5tyHaT4MV/Pru/
+iiDsbqbURlJ1rU64exIomATW2jRASLKwVm5ScU5nKilbhEbhvlFe9yJXc/WBPV8w
+BJsfQXYQMU2gYDHevPQ0IXcPicxFMOHo1atBnbcjvkw+u56uhXZei/CrsuTLhSu7
+XnTwjCFEYaUZoK4XjLwg3ikIJiFCV00bxTXqOh0Re9Skui0zltawAUPW2l2JJvzo
+JWbbezcy/d78Nsedyh+TVXq2ZAYqycUP0KXoW1WLXtXib6M5J70dbIcS5uLWZrE4
+DhbtcRUTgm02uFszHsVuLbnUjgvxESKwskmJXHr229WPHaKUjS4xFN0xz5FDCbE=
+=BYQx
+-----END PGP SIGNATURE-----

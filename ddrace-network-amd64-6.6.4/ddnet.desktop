@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=DDraceNetwork
+GenericName=Platform Game
+Comment=An online multi-player platform 2D shooter
+Exec=.ddnet/DDNet
+Icon=ddnet
+Categories=Game;ArcadeGame;
+

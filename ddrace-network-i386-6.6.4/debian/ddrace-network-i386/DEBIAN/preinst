@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir $HOME/.ddnet/ 
+cd $HOME/.ddnet/
+
+
+## Download DDrace-Client.
+wget http://ddnet.tw/downloads/DDNet-latest-linux_x86.tar.gz

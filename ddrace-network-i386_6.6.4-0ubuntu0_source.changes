@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Fri, 26 Dec 2014 11:43:12 +0100
+Source: ddrace-network-i386
+Binary: ddrace-network-i386
+Architecture: source
+Version: 6.6.4-0ubuntu0
+Distribution: vivid
+Urgency: low
+Maintainer: Domenico Rotolo <rotolonico@gmail.com>
+Changed-By: Domenico Rotolo <rotolonico@gmail.com>
+Description:
+ ddrace-network-i386 - Client for teeworlds
+Changes:
+ ddrace-network-i386 (6.6.4-0ubuntu0) vivid; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ a68c3adacb1958816dc7fcd8561c4fc69603a7f4 1141 ddrace-network-i386_6.6.4-0ubuntu0.dsc
+ 16ea0d04a2235765f3058bf135f96d3a040aba0a 7724 ddrace-network-i386_6.6.4-0ubuntu0.tar.xz
+Checksums-Sha256:
+ e5432e983effb59f16e9f1bb6529363de9dfd3362aff567a958ac8f1f4dc7fb3 1141 ddrace-network-i386_6.6.4-0ubuntu0.dsc
+ 21888164bf5b8ac40479c14bc1c209227ceb7371fd371e093a286f23bbef05c0 7724 ddrace-network-i386_6.6.4-0ubuntu0.tar.xz
+Files:
+ 26a2a3634ef92f1401d1167495d01f8a 1141 games optional ddrace-network-i386_6.6.4-0ubuntu0.dsc
+ 1256553d7eb65c45d47c1ab7451b2f12 7724 games optional ddrace-network-i386_6.6.4-0ubuntu0.tar.xz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJUnal+AAoJEPE7TsvLfP/hwhYIAJWYbPnM6Z1n6WbjQZZZeP9U
+8BwvrhJReW2GmL+7FwEUTEqIm8S2NQ10LdzlyPn0WzhehIciisRrO0KrJLqLyVOB
+uWL0fpl2FWPKXNb6TWg972qH/ABFGyu3kUW2JpWUXqfa7pFh9Zw22nxHW3GKSiLA
+yp/TgnF0zJIwr1VoKRL6M9BxRXNnc26I/RXY5Xrq/0VlL2XhtCn+vx+5nikBX+y1
+RlVdikmr2HIhMWxHPOiTTn6+jaBSPlZUAsGsUVnoQsKK2UAG039ksStSPbXa0A5e
+PVCYHi2VrrKRorkiCnmCWbRinttYjhsdKkizp2nxt373djfVSrcb8YDegDoUbE4=
+=JQUM
+-----END PGP SIGNATURE-----
